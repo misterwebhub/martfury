@@ -1,0 +1,7 @@
+vendor
+.cache
+.config
+.gnupg
+tradezy.zip
+.env
+public/storage
