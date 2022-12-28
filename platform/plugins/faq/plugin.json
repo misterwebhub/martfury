@@ -1,9 +1,0 @@
-{
-  "name": "FAQ",
-  "namespace": "Botble\\Faq\\",
-  "provider": "Botble\\Faq\\Providers\\FaqServiceProvider",
-  "author": "Botble Technologies",
-  "url": "https://botble.com",
-  "version": "5.8",
-  "description": "Frequently Asked Question(s) FAQ"
-}
